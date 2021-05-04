@@ -1,0 +1,4 @@
+org-appear: 6ee49875f8 → c3466c45eb
+  c3466c4 Don't unhide elements until point is inside
+org-mode: 7a62a4d325 → f838dbae77
+  fatal: Invalid symmetric difference expression 7a62a4d3251a512069aa06b0082529d61d22de26...f838dbae773265827bafcdb8b116a207e4dbb5e2
